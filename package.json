@@ -1,0 +1,22 @@
+{
+  "name": "calvad_db_hpms_schema",
+  "version": "1.0.0",
+  "description": "Use sqitch to deploy hpms schema to PostgreSQL database",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "pgtap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarca/calvad_db_hpms_schema.git"
+  },
+  "author": "James E. Marca",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jmarca/calvad_db_hpms_schema/issues"
+  },
+  "homepage": "https://github.com/jmarca/calvad_db_hpms_schema#readme"
+}
